@@ -9,3 +9,7 @@ If previews command doesn't works try also
 sudo apt-get install oracle-java11-set-default-local
 
 java -version
+
+or try with
+
+sudo apt install openjdk-11-jre-headless  # version 11.0.9.1+1-0ubuntu1~20.04, or
