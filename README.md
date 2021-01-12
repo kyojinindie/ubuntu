@@ -2,5 +2,5 @@
 
 ## change user
 
-sudo chown user directory/file
+``sudo chown user directory/file``
 
