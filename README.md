@@ -15,3 +15,7 @@
 ``sudo apt update``
 
 ``sudo apt install dbeaver-ce``
+
+## Create new file
+
+``touch newfile.txt``
