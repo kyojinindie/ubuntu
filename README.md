@@ -19,3 +19,7 @@
 ## Create new file
 
 ``touch newfile.txt``
+
+## Install .deb
+
+``sudo dpkg -i package_file.deb``
