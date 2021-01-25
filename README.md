@@ -23,3 +23,11 @@
 ## Install .deb
 
 ``sudo dpkg -i package_file.deb``
+
+## Install pip for Python 3
+
+``sudo apt update``
+
+``sudo apt install python3-pip``
+
+``pip3 --version``
