@@ -31,3 +31,7 @@
 ``sudo apt install python3-pip``
 
 ``pip3 --version``
+
+## Decompress tar.gz
+
+``tar -xzvf file.tar.gz``
