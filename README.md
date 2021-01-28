@@ -39,3 +39,7 @@
 ## To check space(disk usage)
 
 ``df -h``
+
+## Moving and renaming files and directories.
+
+``mv "old location" "new location"``
