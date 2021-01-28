@@ -35,3 +35,7 @@
 ## Decompress tar.gz
 
 ``tar -xzvf file.tar.gz``
+
+## To check space(disk usage)
+
+``df -h``
